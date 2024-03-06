@@ -3,6 +3,7 @@
 
 
 <!---
-LatikaMeelu/LatikaMeelu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Here are some of my works that demonstrate my knowledge of data tools.
+[Stock prediction] (https://github.com/LatikaMeelu/stock_price_prediction.git)
+[Beginner-level NLP] (textmining.ipynb)
 --->
