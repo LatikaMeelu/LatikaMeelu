@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LatikaMeelu
-- 👀 I’m interested in data science!
+- 👋 Hi, welcome to my data portfolio!
+
 
 
 <!---
