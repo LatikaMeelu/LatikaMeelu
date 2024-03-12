@@ -3,8 +3,8 @@
 
 - Here are some of my works that demonstrate my knowledge of data tools.
 
-| 💡 [Stock Prediction](https://github.com/LatikaMeelu/stock_price_prediction) |
+💡 [Stock Prediction](https://github.com/LatikaMeelu/stock_price_prediction/blob/main/bigdatanalaytics.ipynb)
 
--Beginner-level NLP
--A little dabble in numpy
+💡 [Text Mining](https://github.com/LatikaMeelu/text_mining/blob/main/textmining.ipynb)
+
 
