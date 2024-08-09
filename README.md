@@ -9,13 +9,6 @@ Here are some of my works that demonstrate my knowledge of data tools.
 |---|---|---|---|
 | 👩🏻‍💻 [Text mining](https://github.com/LatikaMeelu/text_mining/blob/main/textmining.ipynb) | Programming | This was part of an exam that focused on applying NLP to clean and structure data. The text analysis also included sentiment analysis. | pandas, numpy | 
 
-
-
-
-
-
-💡 [Text Mining](https://github.com/LatikaMeelu/text_mining/blob/main/textmining.ipynb)
-
 # Tableau
 
 | Project Link | Project Description | Dashboard Link |
